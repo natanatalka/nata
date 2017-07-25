@@ -4,5 +4,10 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "f53579a2",
   "uiCommonVersion": "5.0.42",
-  "creatorId": "admin"
+  "creatorId": "admin",
+  "id": "nata",
+  "previewImageURL": "/previews/f53579a2-nata/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/natanatalka/nata",
+  "creatorName": "PowWow Admin"
 }
